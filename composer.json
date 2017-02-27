@@ -1,0 +1,16 @@
+{
+    "name": "yzy/test",
+    "description": "test package",
+    "type": "library",
+    "require": {
+        "php": "5,7"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yzy",
+            "email": "244360439@qq.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
