@@ -1,16 +1,32 @@
 {
     "name": "yzy/test",
-    "description": "test package",
-    "type": "library",
-    "require": {
-        "php": "5,7"
-    },
-    "license": "MIT",
+    "description": "A very simple activity logger to monitor the users of your website or application",
+    "homepage": "https://github.com/spatie/activitylog",
+    "keywords":
+    [
+        "spatie",
+        "log",
+        "user",
+        "activity",
+        "laravel"
+    ],
     "authors": [
         {
-            "name": "yzy",
-            "email": "244360439@qq.com"
+            "name": "Freek Van der Herten",
+            "email": "freek@spatie.be",
+            "homepage": "https://spatie.be",
+            "role": "Developer"
+        },
+        {
+            "name": "Sebastian De Deyne",
+            "email": "sebastian@spatie.be",
+            "homepage": "https://spatie.be",
+            "role": "Developer"
         }
     ],
-    "minimum-stability": "stable"
+    "require": {
+        "php" : "^7.0",
+
+    },
+    "license": "MIT"
 }
